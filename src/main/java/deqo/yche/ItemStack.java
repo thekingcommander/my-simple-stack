@@ -6,7 +6,7 @@ import java.util.EmptyStackException;
 /**
  * Created by 21206074 on 07/11/2016.
  *
- * réponse à l'éxigence
+ * réponse à l'éxigence ahaha
  */
 public class ItemStack implements SimpleStack {
     int t=0;
