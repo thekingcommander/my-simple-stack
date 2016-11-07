@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.EmptyStackException;
 
 /**
- * Created by 21206074 on 04/11/2016.
+ * Created by 21206074 on 04/11/2016. réponse exigence 3
  */
 public interface  SimpleStack {
     /**
