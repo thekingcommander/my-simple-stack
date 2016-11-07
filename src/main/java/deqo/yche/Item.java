@@ -3,7 +3,7 @@ package deqo.yche;
 /**
  * Created by 21206074 on 04/11/2016.
  *
- * commentaire répondant à l'éxigence numeros 1 cooll
+ * commentaire répondant à l'éxigence numero s 1 cooll
  */
 public class Item {
     int valeur;
